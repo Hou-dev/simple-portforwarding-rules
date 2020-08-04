@@ -18,3 +18,6 @@ My program also supports other types of firewalls such as firewalld. Select the 
 ### Some thoughts on what can be done better
 This was my first time making a GUI using QT so it took at little while to under stand how to use it. 
 I should have used a database like system to the search becuase the results of the finder has to match exactly, I cannot make partial mataches at the matches
+
+### Work in progress
+ This is still a work in progress. Please let me know of what featues to implement
